@@ -1,0 +1,11 @@
+2021-25-05 20:44:46   INFO [RegistrationTest:30  ] : Open url - http://automationpractice.com
+2021-25-05 20:44:53   INFO [RegistrationTest:32  ] : Click login - //a[@class='login']
+2021-25-05 20:44:53   INFO [RegistrationTest:34  ] : Input email - resyniffa-2590@yopmail.com
+2021-25-05 20:44:53   INFO [RegistrationTest:36  ] : Click submit button - //button[@id='SubmitCreate']
+2021-25-05 20:44:57   INFO [RegistrationTest:38  ] : Click account create form
+2021-25-05 20:44:57   INFO [RegistrationTest:40  ] : Input customer firstname - Dmytro
+2021-25-05 20:44:57   INFO [RegistrationTest:42  ] : Input customer lastname - Hulak
+2021-25-05 20:44:57   INFO [RegistrationTest:44  ] : Input email - resyniffa-2590@yopmail.com
+2021-25-05 20:44:57   INFO [RegistrationTest:46  ] : Input password - qwerty123
+2021-25-05 20:44:58   INFO [RegistrationTest:49  ] : Click uniform-newsletter checkbox
+2021-25-05 20:44:58   INFO [RegistrationTest:51  ] : Click optin checkbox
