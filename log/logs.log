@@ -9,3 +9,23 @@
 2021-25-05 20:44:57   INFO [RegistrationTest:46  ] : Input password - qwerty123
 2021-25-05 20:44:58   INFO [RegistrationTest:49  ] : Click uniform-newsletter checkbox
 2021-25-05 20:44:58   INFO [RegistrationTest:51  ] : Click optin checkbox
+2021-30-05 22:01:18   INFO [RegistrationTest:32  ] : Open url - http://automationpractice.com
+2021-30-05 22:01:19   INFO [RegistrationTest:39  ] : Click login - //a[@class='login']
+2021-30-05 22:01:20   INFO [RegistrationTest:41  ] : Input email - resyniffa-2590@yopmail.com
+2021-30-05 22:01:20   INFO [RegistrationTest:43  ] : Click submit button - //button[@id='SubmitCreate']
+2021-30-05 22:01:21   INFO [RegistrationTest:45  ] : Click account create form
+2021-30-05 22:01:21   INFO [RegistrationTest:47  ] : Input customer firstname - Dmytro
+2021-30-05 22:01:21   INFO [RegistrationTest:49  ] : Input customer lastname - Hulak
+2021-30-05 22:01:21   INFO [RegistrationTest:51  ] : Input email - resyniffa-2590@yopmail.com
+2021-30-05 22:01:21   INFO [RegistrationTest:53  ] : Input password - qwerty123
+2021-30-05 22:01:22   INFO [RegistrationTest:56  ] : Click uniform-newsletter checkbox
+2021-30-05 22:01:22   INFO [RegistrationTest:58  ] : Click optin checkbox
+2021-30-05 22:53:51   INFO [RegistrationTestHW:28  ] : Open url - http://automationpractice.com
+2021-30-05 22:53:53   INFO [RegistrationTestHW:32  ] : Click ligin - //a[@class='login'
+2021-30-05 22:53:53   INFO [RegistrationTestHW:36  ] : Input email - xanale9907@isecv.com
+2021-30-05 22:53:53   INFO [RegistrationTestHW:38  ] : Click submit button - //button[@id='SubmitCreate']
+2021-30-05 22:53:55   INFO [RegistrationTestHW:40  ] : Input name - Alina
+2021-30-05 22:53:55   INFO [RegistrationTestHW:42  ] : Input last name - Aza
+2021-30-05 22:53:55   INFO [RegistrationTestHW:44  ] : Input email - xanale9907@isecv.com
+2021-30-05 22:53:55   INFO [RegistrationTestHW:46  ] : Input password - fkbyf123
+2021-30-05 22:53:55   INFO [RegistrationTestHW:50  ] : Click uniform-newsletter checkbox
