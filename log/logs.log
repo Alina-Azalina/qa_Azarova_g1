@@ -29,3 +29,36 @@
 2021-30-05 22:53:55   INFO [RegistrationTestHW:44  ] : Input email - xanale9907@isecv.com
 2021-30-05 22:53:55   INFO [RegistrationTestHW:46  ] : Input password - fkbyf123
 2021-30-05 22:53:55   INFO [RegistrationTestHW:50  ] : Click uniform-newsletter checkbox
+2021-06-06 22:55:12   INFO [googleTest:37  ] : Close chromedriver
+2021-06-06 22:55:15   INFO [googleTest:37  ] : Close chromedriver
+2021-06-06 22:56:33   INFO [googleTest:50  ] : Close chromedriver
+2021-06-06 23:02:12   INFO [googleTest:44  ] : Close chromedriver
+2021-06-06 23:10:31   INFO [googleTest:44  ] : Close chromedriver
+2021-06-06 23:12:21   INFO [googleTest:44  ] : Close chromedriver
+2021-06-06 23:15:33   INFO [googleTest:44  ] : Close chromedriver
+2021-06-06 23:16:44   INFO [googleTest:44  ] : Close chromedriver
+2021-06-06 23:17:17   INFO [googleTest:45  ] : Close chromedriver
+2021-06-06 23:17:40   INFO [RegistrationTestHW:28  ] : Open url - http://automationpractice.com
+2021-06-06 23:17:42   INFO [RegistrationTestHW:32  ] : Click ligin - //a[@class='login'
+2021-06-06 23:17:42   INFO [RegistrationTestHW:36  ] : Input email - xanale9907@isecv.com
+2021-06-06 23:17:42   INFO [RegistrationTestHW:38  ] : Click submit button - //button[@id='SubmitCreate']
+2021-06-06 23:17:44   INFO [RegistrationTestHW:40  ] : Input name - Alina
+2021-06-06 23:17:44   INFO [RegistrationTestHW:42  ] : Input last name - Aza
+2021-06-06 23:17:44   INFO [RegistrationTestHW:44  ] : Input email - xanale9907@isecv.com
+2021-06-06 23:17:44   INFO [RegistrationTestHW:46  ] : Input password - fkbyf123
+2021-06-06 23:17:44   INFO [RegistrationTestHW:50  ] : Click uniform-newsletter checkbox
+2021-06-06 23:21:46   INFO [googleTest:38  ] : Input value in search field - junit4
+2021-06-06 23:21:46   INFO [googleTest:47  ] : Close chromedriver
+2021-06-06 23:39:44   INFO [googleTest:36  ] : Input value in search field - junit4
+2021-06-06 23:39:54   INFO [googleTest:47  ] : Close chromedriver
+2021-06-06 23:42:58   INFO [googleTest:37  ] : Input value in search field - junit4
+2021-06-06 23:43:08   INFO [googleTest:49  ] : Close chromedriver
+2021-06-06 23:48:58   INFO [googleTest:37  ] : Input value in search field - junit4
+2021-06-06 23:49:09   INFO [googleTest:49  ] : Close chromedriver
+2021-06-06 23:49:31   INFO [googleTest:37  ] : Input value in search field - junit4
+2021-06-06 23:49:41   INFO [googleTest:49  ] : Close chromedriver
+2021-06-06 23:50:11   INFO [googleTest:37  ] : Input value in search field - junit4
+2021-06-06 23:50:21   INFO [googleTest:49  ] : Close chromedriver
+2021-06-06 23:53:10   INFO [googleTest:37  ] : Input value in search field - junit4
+2021-06-06 23:53:10   INFO [googleTest:38  ] : https://www.google.com/search?q=junit4&source=hp&ei=vzW9YLuvBfKN9u8P-6GrwA4&iflsig=AINFCbYAAAAAYL1Dz140EmMry_Wq3fULq9ScW66z8Ehi&oq=junit4&gs_lcp=Cgdnd3Mtd2l6EANQkwJYnAJgngJoAHAAeACAAQCIAQCSAQCYAQCgAQGqAQdnd3Mtd2l6&sclient=gws-wiz&ved=0ahUKEwj7iuzq8YPxAhXyhv0HHfvQCugQ4dUDCAc&uact=5
+2021-06-06 23:53:20   INFO [googleTest:49  ] : Close chromedriver
